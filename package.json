@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/dipakparmar/ca-business-registry-graphql.git"
   },
-  "private": true,
+  "private": false,
   "description": "✡️ GraphQL API for Canada Business Registry.",
   "version": "0.0.1-alpha.0",
   "author": "Dipak Parmar <hi@dipak.tech>",
