@@ -1,4 +1,4 @@
-import type { CORSOptions, YogaInitialContext } from '@graphql-yoga/node'
+import type { CORSOptions, YogaInitialContext } from 'graphql-yoga'
 
 export type Context = YogaInitialContext
 
