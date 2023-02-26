@@ -8,9 +8,9 @@ const server = createCABusinessRegistryGraphQLServer({
 
 // Find the port from the environment variables and check if is valid use as it can be used by other services on the same machine
 const port = process.env.PORT || 4000
-const isPortValid = !isNaN(Number(port))
+const isPortValid = Number.isNaN(port)
 
-if (!isPortValid) {
+if (isPortValid) {
   throw new Error('Invalid port')
 }
 
