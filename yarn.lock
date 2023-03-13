@@ -926,10 +926,10 @@ grapheme-splitter@^1.0.4:
   resolved "https://registry.yarnpkg.com/grapheme-splitter/-/grapheme-splitter-1.0.4.tgz#9cf3a665c6247479896834af35cf1dbb4400767e"
   integrity sha512-bzh50DW9kTPM00T8y4o8vQg89Di9oLJVLW/KaOGIXJWP/iqCN6WKYkbNOF04vFLJhwcpYUh9ydh/+5vpOqV4YQ==
 
-graphql-scalars@1.20.2:
-  version "1.20.2"
-  resolved "https://registry.yarnpkg.com/graphql-scalars/-/graphql-scalars-1.20.2.tgz#0569ee960af0826326d5d1e3ca53eb04f79003e0"
-  integrity sha512-qu0Z8ukiysUo/L4BFUr+DVMdhhlhF71d4sPX6bElPssPNU2Uja/wEYBxiZLZBIgAtR8hv6ndCMHUl6MJ+8SYng==
+graphql-scalars@1.20.4:
+  version "1.20.4"
+  resolved "https://registry.yarnpkg.com/graphql-scalars/-/graphql-scalars-1.20.4.tgz#733177919fb0d4f490b4fdba34577038a0155fd3"
+  integrity sha512-/hDzWcphV/aV4MEx2pqVMMekBLi9VXYD/HrJSclpOCLkSB/dE3Rb5VVZBXsQhgBxqeCsE7K0PEO2/cWAUzQsrQ==
   dependencies:
     tslib "~2.5.0"
 
